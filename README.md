@@ -1,5 +1,5 @@
 # PHYS131
-Record of Google Colab Notebooks for PHYS 131 labs at the University of Chicago
+Record of Google Colab Notebooks, Lab Notebooks and Lab Reports for PHYS 131 labs at the University of Chicago
 
 ## Autumn Quarter
 
